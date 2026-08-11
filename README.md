@@ -53,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0027-remove-element) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0018-4sum) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Linked List
 |  |
 | ------- |
