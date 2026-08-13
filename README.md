@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
