@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,4 +183,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
