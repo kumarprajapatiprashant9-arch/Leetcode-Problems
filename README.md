@@ -199,4 +199,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
