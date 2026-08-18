@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
