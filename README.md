@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 ## String Matching
 |  |
 | ------- |
