@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
