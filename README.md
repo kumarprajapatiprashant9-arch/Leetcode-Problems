@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0050-powx-n) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0050-powx-n) |
 ## String Matching
 |  |
 | ------- |
