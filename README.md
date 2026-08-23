@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
