@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Enumeration
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
