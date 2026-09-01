@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2029-stone-game-ix) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
