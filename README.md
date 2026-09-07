@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
