@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0057-insert-interval) |
+| [0835-image-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0835-image-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Algorithm X
 |  |
