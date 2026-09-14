@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0050-powx-n) |
+| [0836-rectangle-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1563-stone-game-v) |
@@ -376,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
