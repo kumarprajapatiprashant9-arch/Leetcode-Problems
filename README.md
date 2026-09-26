@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1927-sum-game) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0052-n-queens-ii) |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0056-merge-intervals) |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0049-group-anagrams) |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -325,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -366,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
