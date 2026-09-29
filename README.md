@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0835-image-overlap](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kumarprajapatiprashant9-arch/Leetcode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Combinatorics
